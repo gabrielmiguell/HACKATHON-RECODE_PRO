@@ -9,14 +9,19 @@ Ideação
 Criaremos um aplicativo de baixo custo onde possamos ajudar as pessoas de baixa renda, a ingressarem no mercado de trabalho.
 Através dessa plataforma criaremos cursos com dicas de como se porta em uma entrevista de emprego - o que fazer e não fazer em uma entrevista. 
 Auxiliaremos as pessoas a criarem um currículo de qualidade, assim facilitando a jornada na busca de um emprego.
-Também criaremos cursos, testes e treinamentos que abordem a matemática e a língua portuguesa, e teremos todos os materiais embasados em processos seletivos de grandes empresas.
+Também criaremos cursos, testes e treinamentos que abordem a matemática e a língua portuguesa, e teremos todos os materiais embasados em processos
+seletivos de grandes empresas.
 Realizaremos parcerias com empresas e ONGs voltadas ao mercado de trabalho, todo para melhorar desenvolvimento dos participantes do projeto. 
 
 2- PROBLEMA
-Nos dias atuais, muitas pessoas de baixa renda enfrentam dificuldades para ingressar no mercado de trabalho devido à falta de conhecimento sobre entrevistas, falta de habilidade na criação de currículos de sucesso e falta de conhecimento em língua portuguesa e matemática, que são habilidades muito exigidas em processos seletivos. Esse problema afeta a sociedade como um todo, pois impede que pessoas talentosas e dedicadas tenham a oportunidade de trabalhar e contribuir para a economia e desenvolvimento do país.
+Nos dias atuais, muitas pessoas de baixa renda enfrentam dificuldades para ingressar no mercado de trabalho devido à falta de conhecimento sobre entrevistas, 
+falta de habilidade na criação de currículos de sucesso e falta de conhecimento em língua portuguesa e matemática, que são habilidades muito exigidas em processos seletivos. 
+Esse problema afeta a sociedade como um todo, pois impede que pessoas talentosas e dedicadas tenham a oportunidade de trabalhar e contribuir para a economia e 
+desenvolvimento do país.
 
 3- SOLUÇÃO
-A plataforma visa fornecer cursos, testes e treinamentos baseando-se em processos seletivos de grandes empresas, assim pretendemos realizar parcerias importantes com empresas e ONGs. Tudo com o objetivo de apoiar as pessoas que querem conseguir uma carreira de sucesso.
+A plataforma visa fornecer cursos, testes e treinamentos baseando-se em processos seletivos de grandes empresas, assim pretendemos realizar parcerias importantes 
+com empresas e ONGs. Tudo com o objetivo de apoiar as pessoas que querem conseguir uma carreira de sucesso.
 
 4- PUBLICO ALVO
 Pessoas de baixa renda, que não sabem como ingressar no mercado de trabalho.
@@ -31,16 +36,22 @@ Pessoas de baixa renda, que não sabem como ingressar no mercado de trabalho.
 
 •	Estímulo à participação em cursos e treinamentos voltados para o mercado de trabalho, aumentando as habilidades e conhecimentos dos participantes;
 
-•	Desenvolvimento de um aplicativo de baixo custo para ajudar jovens em busca do primeiro emprego e pessoas que desejam reingressar no mercado de trabalho, oferecendo acesso fácil e rápido às informações e recursos disponíveis na plataforma.
+•	Desenvolvimento de um aplicativo de baixo custo para ajudar jovens em busca do primeiro emprego e pessoas que desejam reingressar no mercado de trabalho, oferecendo 
+acesso fácil e rápido às informações e recursos disponíveis na plataforma.
 
-Em resumo, o impacto desse projeto seria a redução da desigualdade de oportunidades no mercado de trabalho e o aumento da empregabilidade de pessoas de baixa renda, contribuindo para o desenvolvimento social e econômico da comunidade.
+Em resumo, o impacto desse projeto seria a redução da desigualdade de oportunidades no mercado de trabalho e o aumento da empregabilidade de pessoas de baixa renda, 
+contribuindo para o desenvolvimento social e econômico da comunidade.
 
 6 – FEEDBACK
 @TICI BEZERRA:
-"A ideia em si está ótima, mas é preciso que o grupo decida se os cursos serão oferecidos dentro da plataforma ou redirecionados para fora dela. Uma sugestão que eu dou, caso o grupo esteja indeciso, é criar a interface da plataforma para ter uma noção melhor do projeto. No entanto, é importante decidir logo e seguir em frente para garantir um bom andamento do projeto. Não se limitem e explorem todas as possibilidades!"
+"A ideia em si está ótima, mas é preciso que o grupo decida se os cursos serão oferecidos dentro da plataforma ou redirecionados para fora dela. Uma sugestão que eu dou, 
+caso o grupo esteja indeciso, é criar a interface da plataforma para ter uma noção melhor do projeto. No entanto, é importante decidir logo e seguir em frente para garantir 
+um bom andamento do projeto. Não se limitem e explorem todas as possibilidades!"
 
 @JULIOCESAR:
-"A ideia que foi apresentada é muito boa e tem bastante potencial, principalmente a sugestão de dar recompensas para os usuários se manterem motivados enquanto estudam. É importante tomar cuidado ao oferecer muitos serviços na plataforma, pois isso pode deixar o projeto muito complicado. Seria melhor o grupo focar no objetivo principal primeiro e depois adicionar outras coisas mais para frente, quando a plataforma principal já estiver funcionando bem."
+"A ideia que foi apresentada é muito boa e tem bastante potencial, principalmente a sugestão de dar recompensas para os usuários se manterem motivados enquanto estudam. 
+É importante tomar cuidado ao oferecer muitos serviços na plataforma, pois isso pode deixar o projeto muito complicado. Seria melhor o grupo focar no objetivo principal 
+primeiro e depois adicionar outras coisas mais para frente, quando a plataforma principal já estiver funcionando bem."
 
 
 
